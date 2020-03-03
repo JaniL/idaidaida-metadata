@@ -7,3 +7,5 @@ Tool for retrieving metadata of idaidaida stations. Useful when using with Strea
 git clone this repo, run `npm install` and then run `node index.js -c helsinki`
 
 Replace helsinki with tallinn when going south.
+
+If you are using StreamRipper, you can add the necessary metadata to your recordings with this tool. See StreamRipper's man page for more information.
